@@ -1,0 +1,23 @@
+p { 
+    background-color:pink;
+    font-family:Verdana, sans-serif
+}
+
+div {
+   
+}
+
+.secondelement {
+    color:blue;
+    font-size:36px;
+}
+
+.thirdelement {
+    font-size:24px;
+}
+
+.fourthelement {
+    font-size:24px;
+    background-color:rgb(149, 238, 149);
+    font-weight: bold;
+}

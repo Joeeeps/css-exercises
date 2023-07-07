@@ -1,0 +1,17 @@
+.element1,
+.element2
+{font-size:28px; font-family: Helvetica, 'Times New Roman', 'sans-serif'; 
+
+}
+
+.element1 {
+    background-color: black; color: white;
+}
+.element2 {
+    background-color: yellow;
+}
+
+/* I initially did this challenge by applying rules to the <button> class and then setting unique
+secondary class rules for elements 1 and 2. The challenge however wanted me to group selectors,
+which I did by applying general rules to both .element1 and .element2 and then specific rules for
+each group... I guess the advantage is it is cleaner code? */ 
